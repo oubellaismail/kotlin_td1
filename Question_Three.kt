@@ -9,3 +9,4 @@ fun main(){
     val answer3 : Int = (a * 100) + (b / 10)
     println(answer3)
 }
+
